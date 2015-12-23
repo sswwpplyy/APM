@@ -1,0 +1,10 @@
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\bin\Debug\Lasf Data Processing System.exe
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\bin\Debug\Lasf Data Processing System.pdb
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf Data Processing System.csprojResolveAssemblyReference.cache
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf_Data_Processing_System.Frm_Browser.resources
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf_Data_Processing_System.Frm_Main.resources
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf_Data_Processing_System.Properties.Resources.resources
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf Data Processing System.csproj.GenerateResource.Cache
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf Data Processing System.exe
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\obj\x86\Debug\Lasf Data Processing System.pdb
+E:\My Works\C#\Lasf Data Processing System\Lasf Data Processing System\bin\Debug\TeeChart.dll
